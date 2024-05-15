@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ps70dji\\Desktop\\GitHub\\P_App-335\\P_App-335\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3FFEC170-26F9-4938-BDC8-BA70CBC05E70}|P_App-335.csproj|c:\\users\\ps70dji\\desktop\\github\\p_app-335\\p_app-335\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FFEC170-26F9-4938-BDC8-BA70CBC05E70}|P_App-335.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3FFEC170-26F9-4938-BDC8-BA70CBC05E70}|P_App-335.csproj|c:\\users\\ps70dji\\desktop\\github\\p_app-335\\p_app-335\\newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3FFEC170-26F9-4938-BDC8-BA70CBC05E70}|P_App-335.csproj|solutionrelative:newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFEC170-26F9-4938-BDC8-BA70CBC05E70}|P_App-335.csproj|c:\\users\\ps70dji\\desktop\\github\\p_app-335\\p_app-335\\newpage2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3FFEC170-26F9-4938-BDC8-BA70CBC05E70}|P_App-335.csproj|solutionrelative:newpage2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3FFEC170-26F9-4938-BDC8-BA70CBC05E70}|P_App-335.csproj|c:\\users\\ps70dji\\desktop\\github\\p_app-335\\p_app-335\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,12 +19,8 @@
       "RelativeMoniker": "D:0:0:{3FFEC170-26F9-4938-BDC8-BA70CBC05E70}|P_App-335.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FFEC170-26F9-4938-BDC8-BA70CBC05E70}|P_App-335.csproj|c:\\users\\ps70dji\\desktop\\github\\p_app-335\\p_app-335\\newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3FFEC170-26F9-4938-BDC8-BA70CBC05E70}|P_App-335.csproj|solutionrelative:newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FFEC170-26F9-4938-BDC8-BA70CBC05E70}|P_App-335.csproj|c:\\users\\ps70dji\\desktop\\github\\p_app-335\\p_app-335\\newpage2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3FFEC170-26F9-4938-BDC8-BA70CBC05E70}|P_App-335.csproj|solutionrelative:newpage2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{3FFEC170-26F9-4938-BDC8-BA70CBC05E70}|P_App-335.csproj|c:\\users\\ps70dji\\desktop\\github\\p_app-335\\p_app-335\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFEC170-26F9-4938-BDC8-BA70CBC05E70}|P_App-335.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,37 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ps70dji\\Desktop\\GitHub\\P_App-335\\P_App-335\\App.xaml.cs",
               "RelativeDocumentMoniker": "App.xaml.cs",
               "ToolTip": "C:\\Users\\ps70dji\\Desktop\\GitHub\\P_App-335\\P_App-335\\App.xaml.cs",
               "RelativeToolTip": "App.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-29T11:32:15.948Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "NewPage2.xaml",
               "DocumentMoniker": "C:\\Users\\ps70dji\\Desktop\\GitHub\\P_App-335\\P_App-335\\NewPage2.xaml",
               "RelativeDocumentMoniker": "NewPage2.xaml",
               "ToolTip": "C:\\Users\\ps70dji\\Desktop\\GitHub\\P_App-335\\P_App-335\\NewPage2.xaml",
               "RelativeToolTip": "NewPage2.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-04-29T11:31:55.714Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "NewPage1.xaml",
               "DocumentMoniker": "C:\\Users\\ps70dji\\Desktop\\GitHub\\P_App-335\\P_App-335\\NewPage1.xaml",
               "RelativeDocumentMoniker": "NewPage1.xaml",
@@ -73,20 +73,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\ps70dji\\Desktop\\GitHub\\P_App-335\\P_App-335\\MainPage.xaml",
               "RelativeDocumentMoniker": "MainPage.xaml",
               "ToolTip": "C:\\Users\\ps70dji\\Desktop\\GitHub\\P_App-335\\P_App-335\\MainPage.xaml",
               "RelativeToolTip": "MainPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAALAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-04-22T11:50:27.043Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ps70dji\\Desktop\\GitHub\\P_App-335\\P_App-335\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "MainPage.xaml.cs",

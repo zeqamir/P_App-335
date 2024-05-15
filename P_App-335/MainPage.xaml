@@ -9,26 +9,23 @@
     Background="{StaticResource AppBackgroundBrush}">
 
         <Grid>
-        <Grid.RowDefinitions>
-            <RowDefinition Height="Auto" />
-            <RowDefinition Height="*" />
-        </Grid.RowDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
 
-        <StackPanel Grid.Row="0">
-            <TextBlock Text="Page Bite" FontSize="36" FontWeight="Bold" />
-        </StackPanel>
+            <StackPanel Grid.Row="0">
+                <TextBlock Text="Page Bite" FontSize="36" FontWeight="Bold" />
+            </StackPanel>
 
-        <ItemsControl Grid.Row="1" ItemsSource="{Binding Livres}">
-            <ItemsControl.ItemTemplate>
-                <DataTemplate>
-                    <StackPanel>
-                        <TextBlock Text="{Binding Titre}" FontSize="24" />
-                        <TextBlock Text="{Binding Auteur}" FontSize="18" />
-                    </StackPanel>
-                </DataTemplate>
-            </ItemsControl.ItemTemplate>
-        </ItemsControl>
-    </Grid>
+            <ItemsControl Grid.Row="1" ItemsSource="{Binding Livres}">
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Button Content="{Binding Titre}" Command="{Binding OuvrirLivreCommand}" />
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+        </Grid>
     </Page>
 
 

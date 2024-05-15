@@ -3,7 +3,7 @@ using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.Windows;
 
-namespace P_App_335
+namespace App
 {
     public class Livre
     {
@@ -13,25 +13,16 @@ namespace P_App_335
         public int NombrePages { get; set; }
         public int NombrePagesLues { get; set; }
         public string Texte { get; set; }
-        public int ProgressionLecture { get; set; } // Ajout de la propriété ProgressionLecture
     }
 
-    public class App : Page
+    public class MainPage : Page
     {
         public ObservableCollection<Livre> Livres { get; set; } = new ObservableCollection<Livre>();
 
-        public App()
+        public MainPage()
         {
             Livres.Add(new Livre
             {
                 Titre = "Hamlet",
                 Auteur = "Jean Yves",
-                Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim ven",
-                NombrePages = 300,
-                NombrePagesLues = 150,
-                ProgressionLecture = 50
-            });
-
-        }
-    }
-}
+                Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
